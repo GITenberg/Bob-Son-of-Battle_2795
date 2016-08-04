@@ -1,0 +1,31 @@
+_repo: Bob-Son-of-Battle_2795
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ollivant, Alfred
+    birthdate: 1874
+    deathdate: 1927
+    gutenberg_agent_id: '1027'
+    url: http://www.gutenberg.org/2009/agents/1027
+    wikipedia: http://en.wikipedia.org/wiki/Alfred_Ollivant_(writer)
+description: Two sheep farmers and their sheepdogs engage in a years-long battle to
+  prove their superiority in handling sheep with the son of one caught between. Bob
+  is the last of the famous shepherd line of Gray Dogs of Kenmuir. His alcoholic master,
+  Adam M'Adam, doesn't believe the dog is as good as his forebears, until Bob gives
+  his life to save the flock from a ravenous wolf of the Scottish highlands.
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcc 'PZ'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Dogs -- Fiction'
+- GITenberg
+title: Bob, Son of Battle
+url: http://www.gutenberg.org/ebooks/2795
